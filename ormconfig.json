@@ -1,0 +1,9 @@
+{
+    "type": "mysql",
+    "host": "sql185.main-hosting.eu",
+    "port": 3306,
+    "username": "u100721010_jcdb",
+    "password": "08nov1991",
+    "database": "u100721010_mydb",
+    "entities": ["src/Entities/*.js"]
+ }
